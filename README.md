@@ -73,9 +73,7 @@ Sites and stores, engineered to convert.
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-111113?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pinecone-111113?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-111113?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" />
@@ -119,7 +117,6 @@ Sites and stores, engineered to convert.
 <p align="center">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" />
 </p>
@@ -138,9 +135,11 @@ Sites and stores, engineered to convert.
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta-0866FF?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ahrefs-FF8800?style=flat-square&logo=ahrefs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matomo-3152A0?style=flat-square&logo=matomo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=flat-square&logo=hotjar&logoColor=white" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
   <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
 </p>
@@ -155,7 +154,6 @@ Sites and stores, engineered to convert.
   <img src="https://img.shields.io/badge/Impreza-111113?style=flat-square" />
   <img src="https://img.shields.io/badge/WPBakery-111113?style=flat-square" />
   <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
