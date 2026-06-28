@@ -1,32 +1,66 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Lavder Enterprise" width="100%">
+  <img src="assets/hero.png" alt="Lavder" width="100%">
 </p>
 
-<h3 align="center">Più che un'agenzia. Il tuo partner di fiducia.</h3>
+<p align="center">
+  <strong>An international company building brands, products and digital systems.</strong>
+</p>
 
----
+<p align="center">
+  <a href="https://lavder.com"><img src="https://img.shields.io/badge/Website-lavder.com-111113?style=for-the-badge&labelColor=F87016" alt="Website"></a>
+  &nbsp;
+  <a href="mailto:info@lavder.com"><img src="https://img.shields.io/badge/Contact-Get_in_touch-111113?style=for-the-badge&labelColor=F87016" alt="Contact"></a>
+</p>
 
-Lavder Enterprise Srl is a holding company founded in Italy, headquartered in
-Bucharest. We build, own, and scale products and service companies that share
-one design language, one voice, one level of craft.
+<br>
 
-### What we build
+### What we do
 
-- **Lavder** — Web & marketing agency. 100+ clients, agencies and partners
-  served since 2019. → [lavder.com](https://lavder.com)
-- **Dolce** — Custom-cake consumer app.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### How we work
+**Brand &amp; Identity**<br>
+Design systems, identity and voice built to scale.
 
-We use the tools of 2026: AI-native delivery, component-driven design systems,
-EU AI Act–ready process. We ship sites, platforms and brand systems that hold
-up at scale — technically, visually, commercially.
+</td>
+<td width="50%" valign="top">
 
-### Open work
+**Web &amp; E-commerce**<br>
+High-performance sites and stores, engineered to convert.
 
-- [`lavder-branding`](https://github.com/lavderenterprise/lavder-branding) —
-  our brand system: design tokens, LVDR logos, voice, components. One source of truth.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Contact
+**Product &amp; Platforms**<br>
+Web and native apps, from prototype to production.
 
-[lavder.com](https://lavder.com) · [info@lavder.com](mailto:info@lavder.com)
+</td>
+<td width="50%" valign="top">
+
+**AI-native delivery**<br>
+Modern, automated workflows that ship faster without losing craft.
+
+</td>
+</tr>
+</table>
+
+### Why teams trust us
+
+We work as an embedded partner, not a vendor. One standard of craft across
+everything we build, held to the same level whether it serves a small team or a
+global audience. Direct communication, senior hands on the work, and results we
+stand behind.
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/mark-white.png">
+    <img src="assets/mark-black.png" alt="Lavder" width="34">
+  </picture>
+  <br><br>
+  <sub><a href="https://lavder.com">lavder.com</a></sub>
+</p>
