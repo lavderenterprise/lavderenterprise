@@ -132,16 +132,7 @@ Sites and stores, engineered to convert.
 
 <p align="center"><b>Marketing, SEO &amp; GEO</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tag%20Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meta-0866FF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matomo-3152A0?style=flat-square&logo=matomo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hotjar-FD3A5C?style=flat-square&logo=hotjar&logoColor=white" />
-  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
+  <img src="assets/tech-marketing.png" width="534" alt="Google Analytics, Google Ads, Search Console, Tag Manager, Meta, Semrush, Matomo, Hotjar, HubSpot, Mailchimp" />
 </p>
 
 <p align="center"><b>Web &amp; E&#8209;commerce</b></p>
@@ -149,12 +140,7 @@ Sites and stores, engineered to convert.
   <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,html,css,sass,bootstrap,tailwind,js,mysql&perline=12" alt="Web stack" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Impreza-111113?style=flat-square" />
-  <img src="https://img.shields.io/badge/WPBakery-111113?style=flat-square" />
-  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="assets/tech-ecommerce.png" width="264" alt="Shopify, WooCommerce, Impreza, Webflow, Stripe" />
 </p>
 
 ---
