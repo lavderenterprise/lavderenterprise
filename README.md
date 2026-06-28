@@ -134,6 +134,17 @@ Sites and stores, engineered to convert.
 <p align="center">
   <img src="assets/tech-marketing.png" width="534" alt="Google Analytics, Google Ads, Search Console, Tag Manager, Meta, Semrush, Matomo, Hotjar, HubSpot, Mailchimp" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/TikTok-111113?style=flat-square&logo=tiktok&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-111113?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Buffer-231F20?style=flat-square&logo=buffer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hootsuite-111113?style=flat-square&logo=hootsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yoast-A4286A?style=flat-square&logo=yoast&logoColor=white" />
+</p>
 
 <p align="center"><b>Web &amp; E&#8209;commerce</b></p>
 <p align="center">
