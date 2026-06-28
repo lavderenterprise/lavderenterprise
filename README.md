@@ -10,31 +10,189 @@
 
 <br>
 
-<p align="center"><b>An international company. One standard of craft across everything we build.</b></p>
+<p align="center"><b>If it's digital, we build it — end to end.</b></p>
 
 > Most digital work is disposable. We don't ship disposable.
 > What we build is made to still be working, and still be yours, years from now.
 
-We are a small, senior team that operates like the one you would hire in&#8209;house if you could. We take the brief, own the outcome, and hand back work that performs: technically, visually, and commercially.
+Lavder Enterprise is a full&#8209;service digital company. We design, engineer, and ship across the entire modern stack: AI systems, software products, mobile, cloud, data, brand, marketing, and commerce. One partner, one standard of craft, from first idea to production and beyond.
 
 ---
 
 ## What we do
 
-**Brand &amp; Identity.** &nbsp;Design systems, identity and voice. The kind that survives a redesign, not a mood board.<br>
-**Web &amp; E&#8209;commerce.** &nbsp;Storefronts and sites that load fast, rank, and convert, on stacks your team can actually maintain.<br>
-**Product &amp; Platforms.** &nbsp;Web and native applications, from first prototype to production and beyond.<br>
-**AI&#8209;native delivery.** &nbsp;Built with the tools of 2026, so you get studio&#8209;grade work at a speed legacy agencies cannot match.
+### AI &amp; Automation
+Intelligent systems that do real work, not demos.
+- AI agents, copilots &amp; assistants
+- LLM applications, RAG &amp; knowledge systems
+- Workflow &amp; business-process automation
+- Model Context Protocol (MCP) servers &amp; tools
+- Fine&#8209;tuning, evaluation &amp; model integration
+- Computer vision &amp; document intelligence
+- Conversational, chat &amp; voice interfaces
+- Self&#8209;hosted / sovereign AI deployments
+- EU AI Act compliance &amp; governance
+
+### Product &amp; Platforms
+Software products, from first prototype to scale.
+- Web applications &amp; SaaS platforms
+- Internal tools, admin panels &amp; dashboards
+- APIs, microservices &amp; backend systems
+- Design systems &amp; component libraries
+- MVPs &amp; rapid product prototyping
+- Third&#8209;party integrations &amp; automations
+
+### Mobile &amp; Native Apps
+Native-quality experiences on every device.
+- iOS &amp; Android applications
+- Cross&#8209;platform (Flutter, React Native)
+- Native macOS &amp; desktop apps
+- App Store / Play Store delivery &amp; maintenance
+
+### Cloud, DevOps &amp; Infrastructure
+The plumbing that keeps it fast, safe, and online.
+- Cloud architecture on AWS, GCP &amp; Azure
+- CI/CD &amp; release automation
+- Containers &amp; orchestration
+- Monitoring, logging &amp; observability
+- Security hardening, audits &amp; compliance
+- Self&#8209;hosting &amp; data sovereignty
+
+### Data &amp; Analytics
+Turning data into decisions.
+- Data pipelines &amp; ETL
+- Warehouses, lakes &amp; databases
+- Dashboards &amp; business intelligence
+- Tracking, events &amp; attribution
+- Machine learning &amp; predictive models
+
+### Brand &amp; Identity
+Identity that survives a redesign, not a mood board.
+- Visual identity &amp; logo systems
+- Design systems &amp; brand guidelines
+- Naming &amp; verbal identity
+- Pitch decks, presentations &amp; collateral
+
+### Marketing, SEO &amp; GEO
+Being found, and being chosen.
+- Technical &amp; on&#8209;page SEO
+- GEO — Generative Engine Optimization
+- Content strategy &amp; copywriting
+- Performance marketing &amp; paid ads
+- Analytics, tracking &amp; CRO
+
+### Web &amp; E&#8209;commerce
+Sites and stores, engineered to convert.
+- Corporate sites &amp; landing pages
+- WordPress &amp; headless CMS
+- Shopify &amp; WooCommerce stores
+- Migrations, performance &amp; Core Web Vitals
+- Conversion-rate optimization
+
+---
+
+## Technologies
+
+<p align="center"><b>AI &amp; Automation</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,anaconda,fastapi,flask,docker,redis,postgres,mongodb,kafka&perline=12" alt="AI stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pinecone-111113?style=flat-square&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-111113?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" />
+</p>
+
+<p align="center"><b>Product &amp; Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,nuxt,vue,svelte,nodejs,nestjs,express,deno,graphql,prisma,redux,vite,tailwind,sass,supabase&perline=18" alt="Product stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-111113?style=flat-square&logo=remix&logoColor=white" />
+</p>
+
+<p align="center"><b>Mobile &amp; Native Apps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,apple,kotlin,androidstudio,flutter,dart,react,firebase&perline=12" alt="Mobile stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Expo-111113?style=flat-square&logo=expo&logoColor=white" />
+</p>
+
+<p align="center"><b>Cloud, DevOps &amp; Infrastructure</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,nginx,githubactions,gitlab,jenkins,cloudflare,vercel,netlify,linux,bash,prometheus,grafana&perline=18" alt="Cloud stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+</p>
+
+<p align="center"><b>Data &amp; Analytics</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,elasticsearch,kafka,grafana,prometheus,py,r&perline=12" alt="Data stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" />
+</p>
+
+<p align="center"><b>Brand &amp; Identity</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,pr,blender&perline=12" alt="Design stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Framer-111113?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+</p>
+
+<p align="center"><b>Marketing, SEO &amp; GEO</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=googlesearchconsole&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=googleads&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta-0866FF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ahrefs-FF8800?style=flat-square&logo=ahrefs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=black" />
+</p>
+
+<p align="center"><b>Web &amp; E&#8209;commerce</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,html,css,sass,bootstrap,tailwind,js,mysql&perline=12" alt="Web stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
+
+---
 
 ## How we work
 
 **Senior hands.** &nbsp;The people who pitch you are the people who build it. No handoff to juniors.<br>
 **A partner, not a vendor.** &nbsp;We sit on your side of the table and own the result, not just the deliverable.<br>
 **Built to last.** &nbsp;One standard of craft, whether it serves ten users or a global audience.
-
-## Trusted
-
-We work as an embedded partner to companies and agencies internationally. Brands that come back, and refer the next one.
 
 ---
 
