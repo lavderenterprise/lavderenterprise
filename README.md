@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Lavder Enterprise — we build brands, products and systems that hold up at scale">
+  <img src="assets/banner.png" width="100%" alt="Lavder Enterprise. We build brands, products and systems that hold up at scale.">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center"><b>If it's digital, we build it — end to end.</b></p>
+<p align="center"><b>If it's digital, we build it. End to end.</b></p>
 
 > Most digital work is disposable. We don't ship disposable.
 > What we build is made to still be working, and still be yours, years from now.
@@ -23,71 +23,43 @@ Lavder Enterprise is a full&#8209;service digital company. We design, engineer, 
 
 ### AI &amp; Automation
 Intelligent systems that do real work, not demos.
-- AI agents, copilots &amp; assistants
-- LLM applications, RAG &amp; knowledge systems
-- Workflow &amp; business-process automation
-- Model Context Protocol (MCP) servers &amp; tools
-- Fine&#8209;tuning, evaluation &amp; model integration
-- Computer vision &amp; document intelligence
-- Conversational, chat &amp; voice interfaces
-- Self&#8209;hosted / sovereign AI deployments
-- EU AI Act compliance &amp; governance
+
+`AI agents` `Copilots & assistants` `LLM applications` `RAG & knowledge` `Process automation` `MCP servers` `Fine-tuning` `Computer vision` `Document AI` `Chat & voice` `Sovereign AI` `EU AI Act compliance`
 
 ### Product &amp; Platforms
 Software products, from first prototype to scale.
-- Web applications &amp; SaaS platforms
-- Internal tools, admin panels &amp; dashboards
-- APIs, microservices &amp; backend systems
-- Design systems &amp; component libraries
-- MVPs &amp; rapid product prototyping
-- Third&#8209;party integrations &amp; automations
+
+`Web apps` `SaaS platforms` `Internal tools` `Dashboards` `APIs` `Microservices` `Design systems` `Component libraries` `MVPs` `Integrations`
 
 ### Mobile &amp; Native Apps
 Native-quality experiences on every device.
-- iOS &amp; Android applications
-- Cross&#8209;platform (Flutter, React Native)
-- Native macOS &amp; desktop apps
-- App Store / Play Store delivery &amp; maintenance
+
+`iOS` `Android` `Flutter` `React Native` `macOS & desktop` `App Store delivery` `Maintenance`
 
 ### Cloud, DevOps &amp; Infrastructure
 The plumbing that keeps it fast, safe, and online.
-- Cloud architecture on AWS, GCP &amp; Azure
-- CI/CD &amp; release automation
-- Containers &amp; orchestration
-- Monitoring, logging &amp; observability
-- Security hardening, audits &amp; compliance
-- Self&#8209;hosting &amp; data sovereignty
+
+`Cloud architecture` `CI/CD` `Containers` `Orchestration` `Observability` `Security & audits` `Self-hosting` `Data sovereignty`
 
 ### Data &amp; Analytics
 Turning data into decisions.
-- Data pipelines &amp; ETL
-- Warehouses, lakes &amp; databases
-- Dashboards &amp; business intelligence
-- Tracking, events &amp; attribution
-- Machine learning &amp; predictive models
+
+`Pipelines & ETL` `Warehouses` `Databases` `Dashboards & BI` `Tracking & attribution` `ML & prediction`
 
 ### Brand &amp; Identity
 Identity that survives a redesign, not a mood board.
-- Visual identity &amp; logo systems
-- Design systems &amp; brand guidelines
-- Naming &amp; verbal identity
-- Pitch decks, presentations &amp; collateral
+
+`Visual identity` `Logo systems` `Design systems` `Brand guidelines` `Naming` `Verbal identity` `Decks & collateral`
 
 ### Marketing, SEO &amp; GEO
 Being found, and being chosen.
-- Technical &amp; on&#8209;page SEO
-- GEO — Generative Engine Optimization
-- Content strategy &amp; copywriting
-- Performance marketing &amp; paid ads
-- Analytics, tracking &amp; CRO
+
+`Technical SEO` `On-page SEO` `GEO (Generative Engine Optimization)` `Content & copy` `Paid ads` `Analytics` `CRO`
 
 ### Web &amp; E&#8209;commerce
 Sites and stores, engineered to convert.
-- Corporate sites &amp; landing pages
-- WordPress &amp; headless CMS
-- Shopify &amp; WooCommerce stores
-- Migrations, performance &amp; Core Web Vitals
-- Conversion-rate optimization
+
+`Corporate sites` `Landing pages` `WordPress` `Headless CMS` `Shopify` `WooCommerce` `Migrations` `Core Web Vitals` `CRO`
 
 ---
 
@@ -101,7 +73,7 @@ Sites and stores, engineered to convert.
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-111113?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Pinecone-111113?style=flat-square&logo=pinecone&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-111113?style=flat-square&logo=ollama&logoColor=white" />
@@ -180,9 +152,10 @@ Sites and stores, engineered to convert.
 <p align="center">
   <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Impreza-111113?style=flat-square" />
+  <img src="https://img.shields.io/badge/WPBakery-111113?style=flat-square" />
   <img src="https://img.shields.io/badge/Webflow-146EF5?style=flat-square&logo=webflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=magento&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
